@@ -1,2 +1,5 @@
 # New_Device
-setup script for new linux devices / servers 
+For linux machines...
+
+Easily setup new linux machines and have everything downloaded that 
+I typically use in a linux machine.
